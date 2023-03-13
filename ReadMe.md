@@ -1,4 +1,4 @@
-This is a personal prject to celebrate pi day 14 March 2023.
+This is a personal project to celebrate pi day 14 March 2023.
 
 Phase 1: 
 
@@ -24,8 +24,8 @@ TODO:
 
 *Neat Documentation.
 *Prompt user input instead of fixed input.
-*credit to helpful online reference .
-*better graphics.
+*credit to helpful online resources.
+*better visualization.
 
 Loadshedding robbed me off of three days of coding so this is the first
 commit(Version one)
